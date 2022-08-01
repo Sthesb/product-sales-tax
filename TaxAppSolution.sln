@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxAppSolution", "TaxAppSolution.csproj", "{E2D06956-9130-4760-8CF9-1A79973CFC67}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxAppTesting", "..\TaxAppTesting\TaxAppTesting.csproj", "{480AFF00-C53C-4F3B-B1F7-A7996A79662C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E2D06956-9130-4760-8CF9-1A79973CFC67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2D06956-9130-4760-8CF9-1A79973CFC67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2D06956-9130-4760-8CF9-1A79973CFC67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{480AFF00-C53C-4F3B-B1F7-A7996A79662C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{480AFF00-C53C-4F3B-B1F7-A7996A79662C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{480AFF00-C53C-4F3B-B1F7-A7996A79662C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{480AFF00-C53C-4F3B-B1F7-A7996A79662C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
