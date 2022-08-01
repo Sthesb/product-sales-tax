@@ -1,0 +1,8 @@
+C:\xampp\htdocs\New\C#\TaxAppSolution\bin\Debug\TaxAppSolution.exe.config
+C:\xampp\htdocs\New\C#\TaxAppSolution\bin\Debug\TaxAppSolution.exe
+C:\xampp\htdocs\New\C#\TaxAppSolution\bin\Debug\TaxAppSolution.pdb
+C:\xampp\htdocs\New\C#\TaxAppSolution\obj\Debug\TaxAppSolution.csproj.AssemblyReference.cache
+C:\xampp\htdocs\New\C#\TaxAppSolution\obj\Debug\TaxAppSolution.csproj.SuggestedBindingRedirects.cache
+C:\xampp\htdocs\New\C#\TaxAppSolution\obj\Debug\TaxAppSolution.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\New\C#\TaxAppSolution\obj\Debug\TaxAppSolution.exe
+C:\xampp\htdocs\New\C#\TaxAppSolution\obj\Debug\TaxAppSolution.pdb
